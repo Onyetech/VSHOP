@@ -1,2 +1,4 @@
-package com.ikenna.vshop.configuration;public class SwaggerConfig {
+package com.ikenna.vshop.configurations;
+
+public class SwaggerConfig {
 }
